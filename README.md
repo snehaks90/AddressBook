@@ -17,7 +17,6 @@ The system supports adding, editing, searching, deleting, and displaying contact
 - 📱 Search contact by phone number
 - ❌ Delete contacts
 - 📋 Display all contacts
-- 📊 Sort contacts alphabetically
 - 💾 Permanent data storage using CSV file
 - ✅ Input validation for phone number and email
 
